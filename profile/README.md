@@ -2,4 +2,6 @@
 
 # Openancore
 
+mobile operating system. in development.
+
 </div>
